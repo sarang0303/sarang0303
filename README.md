@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sarang Wankhade</h1>
 <h3 align="center">A passionate JAVA developer from India</h3>
 
- <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fcoding-programming-concept-illustration_188398-765.jpg&tbnid=d_ogi0NtKeU8-M&vet=12ahUKEwiRzLTj3d6AAxUc5zgGHT5HCbwQMygQegUIARCTAQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcoding-programming-concept-illustration_13989583.htm&docid=IHdRFHLZ0srQcM&w=626&h=417&q=animated%20coding%20&hl=en-GB&ved=2ahUKEwiRzLTj3d6AAxUc5zgGHT5HCbwQMygQegUIARCTAQ" alt="">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fcoding-programming-concept-illustration_188398-765.jpg&tbnid=d_ogi0NtKeU8-M&vet=12ahUKEwiRzLTj3d6AAxUc5zgGHT5HCbwQMygQegUIARCTAQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcoding-programming-concept-illustration_13989583.htm&docid=IHdRFHLZ0srQcM&w=626&h=417&q=animated%20coding%20&hl=en-GB&ved=2ahUKEwiRzLTj3d6AAxUc5zgGHT5HCbwQMygQegUIARCTAQ.gif" weight="200px">
 
 - 🌱 I’m currently learning **New Skills**
 
 - 💬 Ask me about **HTML,CSS,Core JAVA,J2EE,Hibernate,Springboot**
 
 - 📫 How to reach me **sarangw2002@gmail.com**
+  
+- 🤔I'm Currently A BEGINEER
+
+- 😄 Pronoun He/Him
+
+- ⚡ Fun fact 🤐😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
